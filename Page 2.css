@@ -1,0 +1,4 @@
+body {background-color: red;}
+h1 {color: black; font-family: verdana; font-size: 300%;}
+p {color: white; font-family: courier; font-size: 160%; border: 2px solid white; padding: 10px;}
+h2 {color: white; font-family: courier; font-size: 160%; border: 2px solid white; padding: 10 px; margin: 50px;}
