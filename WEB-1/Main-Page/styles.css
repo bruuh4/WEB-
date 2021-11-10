@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+a:link {
+      color: blue;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:visited {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    }
+    a:hover {
+      color: MediumSeaGreen;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    a:active {
+      color: yellow
+      background-color: transparent;
+      text-decoration: underline;
+    }

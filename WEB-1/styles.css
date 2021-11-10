@@ -1,0 +1,20 @@
+.container {
+    height: 650px;
+    position: relative;
+  }
+
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  a:link, a:visited {
+    background-color: #000000;
+    color: white; padding: 15px 25px; text-align: center; text-decoration: none; display: inline-block;
+  }
+  a:hover, a:activate {
+    background-color: red;
+  }
